@@ -1,0 +1,274 @@
+{
+  "personal": {
+    "name": "Rithin Rakesh",
+    "email": "rithinrakesh2002@gmail.com",
+    "phone": "+91 81118 55550",
+    "location": "Kannur, Kerala, India"
+  },
+
+  "career": {
+    "experience_years": 0.8,
+
+    "preferred_roles": [
+      "AI Engineer",
+      "AI ML Engineer",
+      "Machine Learning Engineer",
+      "Data Scientist",
+      "Junior Data Scientist",
+      "Generative AI Engineer",
+      "Agentic AI Engineer",
+      "Data Analyst"
+    ],
+
+    "preferred_locations": [
+      "Bangalore, Karnataka",
+      "Chennai, Tamil Nadu",
+      "Kochi, Kerala, India",
+      "Kozhikode, Kerala, India",
+      "Trivandrum, Kerala, India",
+      "Remote",
+      "India"
+    ],
+
+    "remote_preference": "any",
+    "job_type": "full-time",
+
+    "salary_min": null,
+    "salary_max": null,
+
+    "education_degree": "B.Tech",
+    "education_field": "Computer Science and Engineering"
+  },
+
+  "skills": [
+    {
+      "skill": "Python",
+      "category": "Programming",
+      "proficiency": "intermediate",
+      "years_experience": 0.8,
+      "importance": "critical",
+      "weight": 1.5
+    },
+    {
+      "skill": "Machine Learning",
+      "category": "AI/ML",
+      "proficiency": "intermediate",
+      "years_experience": 0.8,
+      "importance": "critical",
+      "weight": 1.5
+    },
+    {
+      "skill": "Deep Learning",
+      "category": "AI/ML",
+      "proficiency": "intermediate",
+      "years_experience": 0.8,
+      "importance": "high",
+      "weight": 1.2
+    },
+    {
+      "skill": "PyTorch",
+      "category": "AI/ML",
+      "proficiency": "intermediate",
+      "years_experience": 0.5,
+      "importance": "high",
+      "weight": 1.2
+    },
+    {
+      "skill": "TensorFlow",
+      "category": "AI/ML",
+      "proficiency": "intermediate",
+      "years_experience": 0.5,
+      "importance": "high",
+      "weight": 1.2
+    },
+    {
+      "skill": "Agentic AI",
+      "category": "AI/ML",
+      "proficiency": "intermediate",
+      "years_experience": 0.2,
+      "importance": "high",
+      "weight": 1.2
+    },
+    {
+      "skill": "Generative AI",
+      "category": "AI/ML",
+      "proficiency": "intermediate",
+      "years_experience": 0.2,
+      "importance": "high",
+      "weight": 1.2
+    },
+    {
+      "skill": "RAG",
+      "category": "AI/ML",
+      "proficiency": "intermediate",
+      "years_experience": 0.2,
+      "importance": "high",
+      "weight": 1.2
+    },
+    {
+      "skill": "Scikit-learn",
+      "category": "AI/ML",
+      "proficiency": "intermediate",
+      "years_experience": 0.8,
+      "importance": "high",
+      "weight": 1.2
+    },
+    {
+      "skill": "Pandas",
+      "category": "Data Analysis",
+      "proficiency": "intermediate",
+      "years_experience": 0.8,
+      "importance": "high",
+      "weight": 1.2
+    },
+    {
+      "skill": "NumPy",
+      "category": "Data Analysis",
+      "proficiency": "intermediate",
+      "years_experience": 0.8,
+      "importance": "high",
+      "weight": 1.2
+    },
+    {
+      "skill": "SQL",
+      "category": "Database",
+      "proficiency": "intermediate",
+      "years_experience": 0.8,
+      "importance": "medium",
+      "weight": 1.0
+    },
+    {
+      "skill": "MySQL",
+      "category": "Database",
+      "proficiency": "intermediate",
+      "years_experience": 0.8,
+      "importance": "medium",
+      "weight": 1.0
+    },
+    {
+      "skill": "PostgreSQL",
+      "category": "Database",
+      "proficiency": "intermediate",
+      "years_experience": 0.5,
+      "importance": "medium",
+      "weight": 1.0
+    },
+    {
+      "skill": "FastAPI",
+      "category": "Backend",
+      "proficiency": "intermediate",
+      "years_experience": 0.5,
+      "importance": "high",
+      "weight": 1.2
+    },
+    {
+      "skill": "Node.js",
+      "category": "Backend",
+      "proficiency": "beginner",
+      "years_experience": 0.5,
+      "importance": "medium",
+      "weight": 1.0
+    },
+    {
+      "skill": "TypeScript",
+      "category": "Programming",
+      "proficiency": "beginner",
+      "years_experience": 0.5,
+      "importance": "medium",
+      "weight": 1.0
+    },
+    {
+      "skill": "Docker",
+      "category": "DevOps",
+      "proficiency": "intermediate",
+      "years_experience": 0.5,
+      "importance": "medium",
+      "weight": 1.0
+    },
+    {
+      "skill": "Power BI",
+      "category": "Visualization",
+      "proficiency": "intermediate",
+      "years_experience": 0.5,
+      "importance": "medium",
+      "weight": 1.0
+    },
+    {
+      "skill": "Matplotlib",
+      "category": "Visualization",
+      "proficiency": "intermediate",
+      "years_experience": 0.8,
+      "importance": "medium",
+      "weight": 1.0
+    },
+    {
+      "skill": "Seaborn",
+      "category": "Visualization",
+      "proficiency": "intermediate",
+      "years_experience": 0.8,
+      "importance": "medium",
+      "weight": 1.0
+    },
+    {
+      "skill": "AWS",
+      "category": "Cloud",
+      "proficiency": "beginner",
+      "years_experience": 0.5,
+      "importance": "medium",
+      "weight": 1.0
+    },
+    {
+      "skill": "Git",
+      "category": "Tools",
+      "proficiency": "intermediate",
+      "years_experience": 0.8,
+      "importance": "medium",
+      "weight": 1.0
+    }
+  ],
+
+  "experience": [
+    {
+      "company": "Leniko Solutions",
+      "title": "AI Intern",
+      "start_date": "2026-07-01",
+      "end_date": null,
+
+      "responsibilities": "Developing production-ready AI applications using Agentic AI architectures and Large Language Models. Building intelligent multi-agent workflows for automation, information retrieval, and business process optimization.",
+
+      "skills_used": [
+        "Python",
+        "Agentic AI",
+        "Generative AI",
+        "RAG"
+      ]
+    },
+    {
+      "company": "Luminar Technolab",
+      "title": "Python Data Science Intern",
+      "start_date": "2025-09-01",
+      "end_date": "2026-04-30",
+
+      "responsibilities": "Performed data cleaning, preprocessing, and exploratory data analysis on structured datasets. Built and optimized predictive models using machine learning and deep learning techniques. Implemented neural networks and transfer learning models for classification problems.",
+
+      "skills_used": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "B.Tech",
+      "field": "Computer Science and Engineering",
+      "institution": "SRM Institute of Science and Technology",
+      "start_date": "2021-01-01",
+      "end_date": "2025-12-31"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "adaa316d-effb-4003-b28c-6fda74ce29ee": {
+    "post_url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10529815-7507791384448450560",
+    "post_text": "We are Hiring \ud83d\udce2 \ud83d\udce2 \n\nRole: AI With Data Engineer\nLocation: FL, AZ, NJ, NY         \ud83d\uded1Locals\ud83d\uded1\n\n\ud83d\udce7Mail: hitish@arkinfotechspectrum.com",
+    "author_name": "P Hitish",
+    "author_profile_url": "https://www.linkedin.com/in/p-hitish-0605ba327?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFJ-KsgB-kb_MTA0BiagbZYTaLckBpYOgdY",
+    "author_headline": null,
+    "company": null,
+    "company_url": null,
+    "published_at": null,
+    "matched_keywords": [
+      "hiring"
+    ],
+    "relevance_score": 43.0,
+    "relevance_details": {
+      "final_score": 43.0,
+      "role_similarity": {
+        "score": 20.0,
+        "matched_roles": []
+      },
+      "skill_overlap": {
+        "score": 10.0,
+        "matched_skills": []
+      },
+      "hiring_intent": {
+        "score": 100.0,
+        "signals": [
+          "lead_type:HIRING_POST",
+          "we are hiring",
+          "public_email:hitish@arkinfotechspectrum.com"
+        ]
+      },
+      "experience_fit": {
+        "score": 70.0,
+        "notes": "Standard general requirements"
+      },
+      "location_fit": {
+        "score": 50.0,
+        "matched_locations": []
+      },
+      "author_authority": {
+        "score": 50.0,
+        "signal": "Standard author"
+      },
+      "weights": {
+        "role": 0.3,
+        "skill": 0.25,
+        "intent": 0.2,
+        "experience": 0.1,
+        "location": 0.1,
+        "authority": 0.05
+      }
+    },
+    "lead_type": "HIRING_POST",
+    "contact_email": "hitish@arkinfotechspectrum.com",
+    "contact_email_source": "POST_TEXT",
+    "contact_email_verified": true,
+    "status": "QUALIFIED",
+    "id": "adaa316d-effb-4003-b28c-6fda74ce29ee",
+    "created_at": "2026-09-21T13:42:56.640500+00:00",
+    "updated_at": "2026-09-21T13:42:56.640500+00:00"
+  },
+  "81959e0f-703f-41b9-a022-9f8e5914e044": {
+    "post_url": "https://www.linkedin.com/posts/michaelscranton_most-ai-engineer-resumes-look-the-same-activity-7507791340039098368-sY5M",
+    "post_text": "Most \"AI engineer\" resumes look the same right now: LangChain, RAG, agentic workflows, all the right nouns.\n \n\"What's the problem with that?\" you might ask. Well, the problem is that those words don't tell you if someone can actually own an AI system in production.\n \nThe two things I've found actually separate strong candidates from people who just know the vocabulary:\n \n\u2192 Can they debug code they didn't write? A lot of production code today is AI-assisted. The engineers who matter aren't the fastest generators \u2014 they're the ones who can spot what's subtly wrong in something that looks right.\n \n\u2192 Do they know when to say no to AI? Ask any candidate when they'd use an agent. Then ask them for a real example of when they recommended against one. The second question is where the signal actually is.\n \nBuzzword-matching got us a market full of resumes that look AI-native and aren't. Testing for judgment, not vocabulary, is how you fix it.\n \nI built an evaluation framework around exactly this. Happy to compare notes if you're hiring for AI roles right now.",
+    "author_name": "Michael Scranton",
+    "author_profile_url": "https://www.linkedin.com/in/michaelscranton?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAXeJsMBk_6O9tDhJsL6PFjPQwlQBIuWTjo",
+    "author_headline": null,
+    "company": null,
+    "company_url": null,
+    "published_at": null,
+    "matched_keywords": [
+      "AI Engineer",
+      "hiring"
+    ],
+    "relevance_score": 59.75,
+    "relevance_details": {
+      "final_score": 59.75,
+      "role_similarity": {
+        "score": 80.0,
+        "matched_roles": [
+          "ai engineer"
+        ]
+      },
+      "skill_overlap": {
+        "score": 45.0,
+        "matched_skills": [
+          "rag"
+        ]
+      },
+      "hiring_intent": {
+        "score": 50.0,
+        "signals": []
+      },
+      "experience_fit": {
+        "score": 70.0,
+        "notes": "Standard general requirements"
+      },
+      "location_fit": {
+        "score": 50.0,
+        "matched_locations": []
+      },
+      "author_authority": {
+        "score": 50.0,
+        "signal": "Standard author"
+      },
+      "weights": {
+        "role": 0.3,
+        "skill": 0.25,
+        "intent": 0.2,
+        "experience": 0.1,
+        "location": 0.1,
+        "authority": 0.05
+      }
+    },
+    "lead_type": "GENERAL_PROFESSIONAL",
+    "contact_email": null,
+    "contact_email_source": null,
+    "contact_email_verified": false,
+    "status": "QUALIFIED",
+    "id": "81959e0f-703f-41b9-a022-9f8e5914e044",
+    "created_at": "2026-09-21T13:42:58.030126+00:00",
+    "updated_at": "2026-09-21T13:42:58.030126+00:00"
+  },
+  "b36a0d9f-a955-4051-a227-e3b83bea5a81": {
+    "post_url": "https://www.linkedin.com/posts/yaswanth-kumar-ambadipudi-b409a4419_hiring-gen-ai-engineer-w2-experience-activity-7507791778071089154-EYrl",
+    "post_text": "\ud83d\udea8 Hiring: Gen AI Engineer \u2013 W2\n\nExperience: 10+ Years\nEmployment Type: W2\nVisa: No H-1B\n\nWe are looking for experienced Gen AI professionals to join our team.\n\n\ud83d\udce9 Interested candidates: Please share your updated resume at Yash@sunixasolutions.com",
+    "author_name": "Yaswanth kumar Ambadipudi",
+    "author_profile_url": "https://www.linkedin.com/in/yaswanth-kumar-ambadipudi-b409a4419?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAGpmR2ABdJyJP7-NPGapU__QaCmVVFfDF58",
+    "author_headline": null,
+    "company": null,
+    "company_url": null,
+    "published_at": null,
+    "matched_keywords": [
+      "AI Engineer",
+      "hiring",
+      "looking for",
+      "join our team"
+    ],
+    "relevance_score": 59.0,
+    "relevance_details": {
+      "final_score": 59.0,
+      "role_similarity": {
+        "score": 80.0,
+        "matched_roles": [
+          "ai engineer"
+        ]
+      },
+      "skill_overlap": {
+        "score": 10.0,
+        "matched_skills": []
+      },
+      "hiring_intent": {
+        "score": 90.0,
+        "signals": [
+          "lead_type:HIRING_POST",
+          "public_email:yash@sunixasolutions.com"
+        ]
+      },
+      "experience_fit": {
+        "score": 70.0,
+        "notes": "Standard general requirements"
+      },
+      "location_fit": {
+        "score": 50.0,
+        "matched_locations": []
+      },
+      "author_authority": {
+        "score": 50.0,
+        "signal": "Standard author"
+      },
+      "weights": {
+        "role": 0.3,
+        "skill": 0.25,
+        "intent": 0.2,
+        "experience": 0.1,
+        "location": 0.1,
+        "authority": 0.05
+      }
+    },
+    "lead_type": "HIRING_POST",
+    "contact_email": "yash@sunixasolutions.com",
+    "contact_email_source": "POST_TEXT",
+    "contact_email_verified": true,
+    "status": "DRAFTED",
+    "id": "b36a0d9f-a955-4051-a227-e3b83bea5a81",
+    "created_at": "2026-09-21T13:44:39.321028+00:00",
+    "updated_at": "2026-09-21T13:45:07.336667+00:00"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "profile_id": "59cab32e-eca5-4b98-946d-28392bac283a",
+  "total_jobs_matched": 15,
+  "all_llm_scores_null": true,
+  "top_10_matches": [
+    {
+      "rank": 1,
+      "job_id": "c505c667-7975-4d1e-a9c6-51094d3bcf45",
+      "score": 81.17,
+      "decision": "strong_match",
+      "title": "Software Engineer (Node.js / TypeScript)",
+      "company": "Golden Gate Innovations",
+      "location": "Kerala, India",
+      "reason": "Matched 2 core skills (Node.js, TypeScript) (Skills Score: 66.67/100); Strong role match between 'Software Engineer (Node.js / TypeScript)' and preferred role 'Software Engineer' (95.0/100); Location aligns with candidate preferred regions (Score: 100.0/100)"
+    },
+    {
+      "rank": 2,
+      "job_id": "43d9b318-40e0-4243-af85-af740497b965",
+      "score": 74.17,
+      "decision": "review",
+      "title": "Senior AIML Engineer",
+      "company": "Litmus7",
+      "location": "Kochi, Kerala, India",
+      "reason": "Location aligns with candidate preferred regions (Score: 100.0/100)"
+    },
+    {
+      "rank": 3,
+      "job_id": "658b9a05-ad17-450b-970b-013234afc793",
+      "score": 72.5,
+      "decision": "review",
+      "title": "Senior Backend Software Developer",
+      "company": "Dodge Construction Network",
+      "location": "Kochi, Kerala, India",
+      "reason": "Location aligns with candidate preferred regions (Score: 100.0/100)"
+    },
+    {
+      "rank": 4,
+      "job_id": "362c6c36-e148-4bc6-b501-ba1acaa62d0a",
+      "score": 71.0,
+      "decision": "review",
+      "title": "EMBEDDED SYSTEMS ENGINEER",
+      "company": "Spectrum Softtech Solutions Pvt. Ltd.",
+      "location": "Ernakulam, Kerala, India",
+      "reason": "Location aligns with candidate preferred regions (Score: 85.0/100)"
+    },
+    {
+      "rank": 5,
+      "job_id": "1e318f4e-39cc-4a57-8908-eebcb5960c47",
+      "score": 67.5,
+      "decision": "low_match",
+      "title": "ETL Developer_Trivandrum",
+      "company": "VGreen Technology Solutions (VGreenTEK)",
+      "location": "Kochi, Kerala, India",
+      "reason": "Location aligns with candidate preferred regions (Score: 100.0/100)"
+    },
+    {
+      "rank": 6,
+      "job_id": "f1514dad-fb5e-4348-9b0b-b9efb5cc3c07",
+      "score": 67.5,
+      "decision": "low_match",
+      "title": "Cloud Solutions Architect",
+      "company": "NOV",
+      "location": "Kochi, Kerala, India",
+      "reason": "Location aligns with candidate preferred regions (Score: 100.0/100)"
+    },
+    {
+      "rank": 7,
+      "job_id": "8d843297-4a8e-4361-9b89-263637e2dc4a",
+      "score": 64.5,
+      "decision": "low_match",
+      "title": "Data Engineer (Python+Azure)",
+      "company": "Reflections Technologies [Data Cube]",
+      "location": "Kerala, India",
+      "reason": "Matched 1 core skills (Python) (Skills Score: 60.0/100); Location aligns with candidate preferred regions (Score: 100.0/100)"
+    },
+    {
+      "rank": 8,
+      "job_id": "e9d32404-a167-4fc6-a6ab-57dc14e749f7",
+      "score": 54.5,
+      "decision": "reject",
+      "title": "Senior Software Engineer -.NET Fullstack [T500-28558]",
+      "company": "Comply",
+      "location": "Kochi, Kerala, India",
+      "reason": "Strong role match between 'Senior Software Engineer -.NET Fullstack [T500-28558]' and preferred role 'Software Engineer' (95.0/100); Location aligns with candidate preferred regions (Score: 100.0/100)"
+    },
+    {
+      "rank": 9,
+      "job_id": "b421fd45-3116-4b9b-b732-fcadb16643e7",
+      "score": 45.5,
+      "decision": "reject",
+      "title": "AI Video Specialist",
+      "company": "Level Up Digital Studios Pvt Ltd",
+      "location": "Kochi, Kerala, India",
+      "reason": "Location aligns with candidate preferred regions (Score: 100.0/100)"
+    },
+    {
+      "rank": 10,
+      "job_id": "e8c59322-2631-4350-87b1-99ae88209be5",
+      "score": 44.5,
+      "decision": "reject",
+      "title": "Microsoft -Pure AI -Senior",
+      "company": "EY",
+      "location": "Kochi, Kerala, India",
+      "reason": "Location aligns with candidate preferred regions (Score: 100.0/100)"
+    }
+  ]
+}

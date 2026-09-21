@@ -1,0 +1,24 @@
+Candidate Professional Profile:
+- Preferred Roles: {preferred_roles}
+- Experience Level: {experience_years} years
+- Key Technical Skills: {skills}
+- Experience Summary: {experience_summary}
+- Education: {education}
+- Work Preferences: {work_preferences}
+
+Job Posting Details:
+- Title: {job_title}
+- Company: {job_company}
+- Location: {job_location}
+- Employment Type: {job_type}
+- Stated Experience Requirements: {job_experience}
+- Full Job Description:
+{job_description}
+
+Deterministic Match Context:
+- Initial Deterministic Score: {deterministic_score}/100
+- Overlapping Skills: {matched_skills}
+- Missing Skills: {missing_skills}
+- Category Breakdown: {category_breakdown}
+
+Analyze the job fit and return the JSON evaluation.

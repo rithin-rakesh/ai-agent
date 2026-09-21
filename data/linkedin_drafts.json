@@ -1,0 +1,35 @@
+{
+  "4986121c-a912-4b93-b2ca-04ad517bc563": {
+    "id": "4986121c-a912-4b93-b2ca-04ad517bc563",
+    "lead_id": "b36a0d9f-a955-4051-a227-e3b83bea5a81",
+    "recipient_email": "yash@sunixasolutions.com",
+    "recipient_name": "Yaswanth kumar Ambadipudi",
+    "subject": "Application / Inquiry: AI Engineer - Rithin Rakesh",
+    "body_text": "Dear Yaswanth kumar Ambadipudi,\n\nI hope this note finds you well. I came across your recent LinkedIn update regarding the AI Engineer opportunity at your team and wanted to express my sincere interest in the role.\n\nI am a software engineer focused on Artificial Intelligence and Machine Learning, with hands-on experience building models, APIs, and data pipelines using Python, Machine Learning, Deep Learning, PyTorch.\n\nGiven your focus on practical engineering and impactful problem-solving, I believe my technical foundation and enthusiasm for learning would allow me to contribute meaningfully to your team.\n\nI have attached my resume for your consideration. I would welcome the opportunity to speak with you briefly about how my background aligns with your team's objectives.\n\nThank you for your time and consideration.\n\nBest regards,\nRithin Rakesh\nEmail: rithinrakesh2002@gmail.com\nPhone: +91 81118 55550",
+    "attachment_path": "D:\\Job Agent\\AI-job-application-agent\\data\\profile\\resume.pdf",
+    "attachment_verified": true,
+    "personalization_fields": {
+      "recipient_name": "Yaswanth kumar Ambadipudi",
+      "company_name": "your team",
+      "role_mention": "AI Engineer",
+      "skills_highlighted": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "PyTorch"
+      ],
+      "candidate_name": "Rithin Rakesh",
+      "post_url": "https://www.linkedin.com/posts/yaswanth-kumar-ambadipudi-b409a4419_hiring-gen-ai-engineer-w2-experience-activity-7507791778071089154-EYrl"
+    },
+    "generation_metadata": {
+      "generator": "LinkedInEmailGenerator",
+      "version": "1.0.0",
+      "resume_file_size_bytes": 697,
+      "resume_path_verified": true
+    },
+    "status": "DRAFT",
+    "sent_at": null,
+    "created_at": "2026-09-21T13:45:06.882897Z",
+    "updated_at": "2026-09-21T13:45:06.882899Z"
+  }
+}

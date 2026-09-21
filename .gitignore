@@ -1,0 +1,39 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Testing caches & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs, screenshots, and browser artifacts
+logs/
+*.log
+screenshots/
+browser_sessions/
+traces/
+playwright-artifacts/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db

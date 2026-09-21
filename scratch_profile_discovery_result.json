@@ -1,0 +1,112 @@
+{
+  "status": "success",
+  "search_plan": {
+    "queries_generated": 3,
+    "queries": [
+      {
+        "search_term": "AI ML Engineer",
+        "location": "Kochi, Kerala",
+        "source": "indeed",
+        "reason": "Candidate preferred role: AI ML Engineer",
+        "priority": 1
+      },
+      {
+        "search_term": "AI ML Engineer",
+        "location": "Kerala, India",
+        "source": "indeed",
+        "reason": "Candidate preferred role in secondary location: AI ML Engineer",
+        "priority": 2
+      },
+      {
+        "search_term": "Machine Learning Engineer",
+        "location": "Kochi, Kerala",
+        "source": "indeed",
+        "reason": "Candidate preferred role: Machine Learning Engineer",
+        "priority": 1
+      }
+    ]
+  },
+  "discovery": {
+    "raw_jobs": 21,
+    "unique_jobs": 16,
+    "duplicates_removed": 21,
+    "queries_succeeded": 3,
+    "queries_failed": 0,
+    "execution_time_ms": 121028
+  },
+  "matching": {
+    "jobs_scored": 16,
+    "excellent": 0,
+    "strong_match": 0,
+    "review": 0,
+    "weak_match": 0,
+    "unqualified": 16
+  },
+  "top_matches": [
+    {
+      "job_id": "df300642-7b24-48e7-abad-f559a08321cc",
+      "title": "SB-1486-AI Engineer Intern",
+      "company": "Softobiz Technologies",
+      "location": "KL, IN",
+      "source": "indeed",
+      "url": "https://in.indeed.com/viewjob?jk=1ae8a1896f150b74",
+      "deterministic_score": 59.33,
+      "semantic_score": null,
+      "final_score": 59.3,
+      "decision": "reject",
+      "reason": "Matched 2 core skills (Machine Learning, Python) (Skills Score: 33.33/100)"
+    },
+    {
+      "job_id": "ec3aab9c-e9e5-4060-a9ec-3aead4443580",
+      "title": "Full Stack Developer/AI Engineer",
+      "company": "Noori Business Corporation",
+      "location": "KL, IN",
+      "source": "indeed",
+      "url": "https://in.indeed.com/viewjob?jk=ff07d62b21672d45",
+      "deterministic_score": 63.89,
+      "semantic_score": 42.76,
+      "final_score": 58.8,
+      "decision": "reject",
+      "reason": "Matched 4 core skills (Git, Machine Learning, Node.js, TypeScript) (Skills Score: 42.86/100)"
+    },
+    {
+      "job_id": "9bf01932-9132-496c-a320-83b7dbf461cc",
+      "title": "AI/ML Engineer",
+      "company": "Rank One Digital Apex pvt. Ltd.",
+      "location": "KL, IN",
+      "source": "indeed",
+      "url": "https://in.indeed.com/viewjob?jk=9ac3c2bccca9d11b",
+      "deterministic_score": 63.42,
+      "semantic_score": 38.74,
+      "final_score": 58.6,
+      "decision": "reject",
+      "reason": "Matched 1 core skills (Machine Learning) (Skills Score: 60.0/100)"
+    },
+    {
+      "job_id": "8f4569ce-7b6d-4c60-8353-f42a45efd1a5",
+      "title": "Product Engineer AI/ML - Level 1",
+      "company": "Gritstone Technologies",
+      "location": "KL, IN",
+      "source": "indeed",
+      "url": "https://in.indeed.com/viewjob?jk=3f94b3bcc9744cee",
+      "deterministic_score": 62.0,
+      "semantic_score": 45.77,
+      "final_score": 58.4,
+      "decision": "reject",
+      "reason": "Matched 2 core skills (Machine Learning, Python) (Skills Score: 60.0/100)"
+    },
+    {
+      "job_id": "b6b37c26-ceb2-42dc-9927-fa386cecace6",
+      "title": "AI Solution Engineer",
+      "company": "PlaceElements HR",
+      "location": "KL, IN",
+      "source": "indeed",
+      "url": "https://in.indeed.com/viewjob?jk=c5e7736929c848b1",
+      "deterministic_score": 56.66,
+      "semantic_score": null,
+      "final_score": 56.7,
+      "decision": "reject",
+      "reason": "Matched 1 core skills (Python) (Skills Score: 27.27/100)"
+    }
+  ]
+}

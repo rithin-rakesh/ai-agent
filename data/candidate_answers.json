@@ -1,0 +1,242 @@
+[
+  {
+    "normalized_key": "current_ctc_lpa",
+    "category": "salary",
+    "answer_type": "number_or_text",
+    "value": "0",
+    "source": "candidate_approved",
+    "approved": true,
+    "scope": "global",
+    "platforms": [
+      "indeed",
+      "glassdoor"
+    ],
+    "confidence": 1.0,
+    "requires_user_approval": false,
+    "description": "Current CTC (0 LPA)",
+    "created_at": "2026-09-11T12:21:46.713230Z",
+    "updated_at": "2026-09-11T12:21:46.713240Z"
+  },
+  {
+    "normalized_key": "expected_ctc_lpa",
+    "category": "salary",
+    "answer_type": "number_or_text",
+    "value": "4-5",
+    "source": "candidate_approved",
+    "approved": true,
+    "scope": "global",
+    "platforms": [
+      "indeed",
+      "glassdoor"
+    ],
+    "confidence": 1.0,
+    "requires_user_approval": false,
+    "description": "Expected CTC (4-5 LPA)",
+    "created_at": "2026-09-11T12:21:46.713261Z",
+    "updated_at": "2026-09-11T12:21:46.713262Z"
+  },
+  {
+    "normalized_key": "notice_period_days",
+    "category": "notice_period",
+    "answer_type": "number_or_text",
+    "value": "15",
+    "source": "candidate_approved",
+    "approved": true,
+    "scope": "global",
+    "platforms": [
+      "indeed",
+      "glassdoor"
+    ],
+    "confidence": 1.0,
+    "requires_user_approval": false,
+    "description": "Notice period in days (15 days)",
+    "created_at": "2026-09-11T12:21:46.713269Z",
+    "updated_at": "2026-09-11T12:21:46.713269Z"
+  },
+  {
+    "normalized_key": "preferred_locations",
+    "category": "location",
+    "answer_type": "checkbox_multi",
+    "value": [
+      "Chennai",
+      "Bangalore",
+      "Kochi",
+      "Kozhikode",
+      "Trivandrum"
+    ],
+    "source": "candidate_approved",
+    "approved": true,
+    "scope": "global",
+    "platforms": [
+      "indeed",
+      "glassdoor"
+    ],
+    "confidence": 1.0,
+    "requires_user_approval": false,
+    "description": "Target job locations in India",
+    "created_at": "2026-09-11T12:21:46.713274Z",
+    "updated_at": "2026-09-11T12:21:46.713275Z"
+  },
+  {
+    "normalized_key": "willing_to_relocate",
+    "category": "relocation",
+    "answer_type": "boolean",
+    "value": true,
+    "source": "candidate_approved",
+    "approved": true,
+    "scope": "global",
+    "platforms": [
+      "indeed",
+      "glassdoor"
+    ],
+    "confidence": 1.0,
+    "requires_user_approval": false,
+    "description": "Open and willing to relocate for the role",
+    "created_at": "2026-09-11T12:21:46.713281Z",
+    "updated_at": "2026-09-11T12:21:46.713282Z"
+  },
+  {
+    "normalized_key": "work_preference",
+    "category": "work_mode",
+    "answer_type": "select",
+    "value": "Hybrid",
+    "source": "candidate_approved",
+    "approved": true,
+    "scope": "global",
+    "platforms": [
+      "indeed",
+      "glassdoor"
+    ],
+    "confidence": 1.0,
+    "requires_user_approval": false,
+    "description": "Preferred work mode (Hybrid)",
+    "created_at": "2026-09-11T12:21:46.713286Z",
+    "updated_at": "2026-09-11T12:21:46.713287Z"
+  },
+  {
+    "normalized_key": "teaching_experience_years",
+    "category": "experience",
+    "answer_type": "number",
+    "value": "1",
+    "source": "candidate_approved",
+    "approved": true,
+    "scope": "global",
+    "platforms": [
+      "indeed",
+      "glassdoor"
+    ],
+    "confidence": 1.0,
+    "requires_user_approval": false,
+    "description": "Explicit candidate-approved teaching experience (1 year)",
+    "created_at": "2026-09-11T12:21:46.713291Z",
+    "updated_at": "2026-09-11T12:21:46.713291Z"
+  },
+  {
+    "normalized_key": "years_experience_teaching",
+    "category": "experience",
+    "answer_type": "number",
+    "value": "1",
+    "source": "candidate_approved",
+    "approved": true,
+    "scope": "global",
+    "platforms": [
+      "indeed",
+      "glassdoor"
+    ],
+    "confidence": 1.0,
+    "requires_user_approval": false,
+    "description": "Explicit candidate-approved teaching experience (1 year)",
+    "created_at": "2026-09-11T12:21:46.713295Z",
+    "updated_at": "2026-09-11T12:21:46.713295Z"
+  },
+  {
+    "normalized_key": "universal_motivation",
+    "category": "motivation",
+    "answer_type": "free_text",
+    "value": "I am an aspiring AI/ML engineer with hands-on experience in Python, machine learning, deep learning, data analysis, Generative AI, and Agentic AI. I have worked on AI-driven applications and intelligent automation projects and enjoy solving real-world problems using data and modern AI technologies. I am looking for an opportunity where I can apply my technical skills, continue learning, and contribute to a team building practical AI solutions.",
+    "source": "candidate_approved",
+    "approved": true,
+    "scope": "global",
+    "platforms": [
+      "indeed",
+      "glassdoor"
+    ],
+    "confidence": 1.0,
+    "requires_user_approval": false,
+    "description": "Approved universal motivation template",
+    "created_at": "2026-09-11T12:21:46.713299Z",
+    "updated_at": "2026-09-11T12:21:46.713299Z"
+  },
+  {
+    "normalized_key": "education_degree",
+    "category": "education",
+    "answer_type": "text",
+    "value": "B.Tech",
+    "source": "candidate_profile",
+    "approved": true,
+    "scope": "global",
+    "platforms": [
+      "indeed",
+      "glassdoor"
+    ],
+    "confidence": 1.0,
+    "requires_user_approval": false,
+    "description": "Degree qualification",
+    "created_at": "2026-09-11T12:21:46.713303Z",
+    "updated_at": "2026-09-11T12:21:46.713303Z"
+  },
+  {
+    "normalized_key": "education_field",
+    "category": "education",
+    "answer_type": "text",
+    "value": "Computer Science and Engineering",
+    "source": "candidate_profile",
+    "approved": true,
+    "scope": "global",
+    "platforms": [
+      "indeed",
+      "glassdoor"
+    ],
+    "confidence": 1.0,
+    "requires_user_approval": false,
+    "description": "Field of study",
+    "created_at": "2026-09-11T12:21:46.713307Z",
+    "updated_at": "2026-09-11T12:21:46.713307Z"
+  },
+  {
+    "normalized_key": "education_institution",
+    "category": "education",
+    "answer_type": "text",
+    "value": "SRM Institute of Science and Technology",
+    "source": "candidate_profile",
+    "approved": true,
+    "scope": "global",
+    "platforms": [
+      "indeed",
+      "glassdoor"
+    ],
+    "confidence": 1.0,
+    "requires_user_approval": false,
+    "description": "Undergraduate University",
+    "created_at": "2026-09-11T12:21:46.713313Z",
+    "updated_at": "2026-09-11T12:21:46.713313Z"
+  },
+  {
+    "normalized_key": "custom_github_username",
+    "category": "personal",
+    "answer_type": "text",
+    "value": "rithin-rakesh",
+    "source": "candidate_approved",
+    "approved": true,
+    "scope": "global",
+    "platforms": [
+      "indeed",
+      "glassdoor"
+    ],
+    "confidence": 1.0,
+    "requires_user_approval": false,
+    "description": "Candidate GitHub profile",
+    "created_at": "2026-09-15T05:49:02.354804Z",
+    "updated_at": "2026-09-15T05:49:02.354724Z"
+  }
+]

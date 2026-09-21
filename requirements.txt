@@ -1,0 +1,20 @@
+# Core Web and API
+fastapi>=0.110.0,<1.0.0
+uvicorn[standard]>=0.28.0,<1.0.0
+
+# Settings and Validation
+pydantic>=2.6.0,<3.0.0
+pydantic-settings>=2.2.0,<3.0.0
+python-dotenv>=1.0.0,<2.0.0
+
+# Supabase Integration
+supabase>=2.3.0,<3.0.0
+
+# Testing and HTTP Client
+pytest>=8.0.0,<9.0.0
+pytest-asyncio>=0.23.0,<1.0.0
+httpx>=0.27.0,<1.0.0
+
+# Browser & Desktop Automation (Phase 5)
+playwright>=1.40.0,<2.0.0
+pywinauto>=0.6.8

@@ -1,0 +1,46 @@
+{
+  "role_keywords": [
+    "AI Engineer",
+    "AI/ML",
+    "Machine Learning",
+    "ML Engineer",
+    "Data Scientist",
+    "Data Science",
+    "Generative AI",
+    "GenAI",
+    "Agentic AI",
+    "Artificial Intelligence"
+  ],
+  "hiring_intent_keywords": [
+    "hiring",
+    "we're hiring",
+    "looking for",
+    "opening",
+    "openings",
+    "vacancy",
+    "job",
+    "jobs",
+    "recruiting",
+    "recruiter",
+    "referral",
+    "internship",
+    "intern",
+    "opportunity",
+    "join our team"
+  ],
+  "target_locations": [
+    "India",
+    "Bangalore",
+    "Bengaluru",
+    "Kochi",
+    "Kerala",
+    "Chennai",
+    "Hyderabad",
+    "Remote"
+  ],
+  "author_title_indicators": {
+    "recruiter": ["recruiter", "talent acquisition", "sourcer", "staffing", "ta partner"],
+    "hiring_manager": ["engineering manager", "founder", "co-founder", "cto", "ceo", "director", "head of ai", "lead", "vp"],
+    "employee_referral": ["teammate", "colleague", "dm me", "reach out", "send resume"]
+  }
+}

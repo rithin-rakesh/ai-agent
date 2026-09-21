@@ -1,0 +1,17 @@
+{
+  "actors": {
+    "valig~glassdoor-jobs-scraper": {
+      "state": "CLOSED",
+      "consecutive_failures": 0,
+      "last_success_at": 1789824153.732933,
+      "last_failure_at": 1789137333.4959283,
+      "last_error": "status=FAILED, exit_code=1"
+    },
+    "cheap_scraper~glassdoor-jobs-scraper-remove-duplicate-jobs": {
+      "state": "CLOSED",
+      "consecutive_failures": 0,
+      "last_success_at": 1789137333.8035362
+    }
+  },
+  "updated_at": 1789824153.733433
+}
